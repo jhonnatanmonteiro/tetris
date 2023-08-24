@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">tetriskotlingame</string>
+    <string name="body_label">-----------</string>
+    <string name="game_over_hint">GAME OVER</string>
+    <string name="button_rotate">GIRAR</string>
+    <string name="button_up">▲</string>
+    <string name="button_left">◀</string>
+    <string name="button_right">▶</string>
+    <string name="button_down">▼</string>
+    <string name="button_sounds">SOM</string>
+    <string name="button_pause">PAUSE/RESUME</string>
+    <string name="button_reset">START/RESET</string>
+    <string name="natansin">natansin</string>
+</resources>
